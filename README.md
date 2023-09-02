@@ -1,7 +1,8 @@
 ### Hi!
 I'm Ivan, a software developer from Mantova (IT).
-I'm mostly working on the backend-side of cloud-based software solutions, integration and linux-server management, but sometimes i aslo get in touch with a lot of different technologies related to IoT an industry.
-.
+
+I mostly work on the backend-side of cloud-based software solutions, integration and linux-server management, but sometimes i aslo get in touch with a lot of different technologies related to IoT an industry.
+
 On free time i jump on my bike and ride around the countryside, or hike in tme mountains. I also try to build small IoT electronic projects, using [EasyEda](https://easyeda.com/it), [jlcPcb](https://jlcpcb.com/) and [Esp mcu's](https://www.espressif.com/).
 
 

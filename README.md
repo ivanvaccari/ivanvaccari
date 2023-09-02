@@ -37,3 +37,5 @@ On free time i jump on my bike and ride around the countryside, or hike in the m
 - If docs say "You can't do this!" then "You can't do this!", if docs don't say anything about it then "You probably can do it, give it a try!"
 - Temporary solutions are much less temporary than you think.
 - Automatic stuff is great, but it might automatically stop working somewhere in time. If you rely on it for your project, at least dedicate some times to learn how yo do it manually.
+- Best practices from one language does not automatically transfer to other languages
+- Algorthmic is hard to learn and  make up 90% of a developer skills. Specific language syntax, semantics and features are easy to learn and make up 10% of a developer skills.

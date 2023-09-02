@@ -27,3 +27,12 @@ On free time i jump on my bike and ride around the countryside, or hike in tme m
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-vaccari-a695a1170/)
 
+
+### Some of my cs-related rules
+- Computer is ALWAYS right. Either your software is broken, or your environment is broken.
+- Don't overcomplicate code for simple task, it will bite back somewhere in future. Basically, [follow KISS rules](https://en.wikipedia.org/wiki/KISS_principle). 
+- Do not expect to extract gold from bad data (this is especially dedicated to customers!)
+- Bad solutions are better then no solutions.
+- If docs say "You can't do this!" then "You can't do this!", if docs don't say anything about it then "You probably can do it, give it a try!"
+- Temporary solutions are much less temporary than you think.
+- Automatic stuff is great, but it might automatically stop working somewhere in time. If you rely on it for your project, at least dedicate some times to learn how yo do it manually.

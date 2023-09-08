@@ -1,7 +1,7 @@
 ### Hi!
 I'm Ivan, a software developer from [Mantova (IT)](https://www.google.it/maps/place/46100+Mantova+MN/@45.1618212,10.7526511,14z).
 
-I mostly work on the backend-side of cloud-based software solutions, integration and linux-server management, but sometimes i aslo get in touch with a lot of different technologies related to IoT an industry.
+I mostly work on the backend-side of cloud-based software solutions, integration and linux-server management, but sometimes i aslo get in touch with a lot of different technologies related to IoT and industry.
 
 On free time i jump on my bike and ride around the countryside, or hike in the mountains. I also try to build small IoT electronic projects, using [EasyEda](https://easyeda.com/it), [jlcPcb](https://jlcpcb.com/) and [Esp mcu's](https://www.espressif.com/).
 
@@ -39,3 +39,6 @@ On free time i jump on my bike and ride around the countryside, or hike in the m
 - Automatic stuff is great, but it might automatically stop working somewhere in time. If you rely on it for your project, at least dedicate some times to learn how yo do it manually.
 - Best practices from one language does not automatically transfer to other languages
 - Algorithmic is hard to learn and  make up 90% of a developer skills. Specific language syntax, semantics and features are easy to learn and make up 10% of a developer skills.
+- Right tools make your job 50% easier.
+- Super-duper, ultra popular frameworks, make hour job easier 95% of the times. The remaining 5% of the times they just push you to madness.
+- Most of the stuff we develop today was doable also 30 years ago, it just become easier to do it.

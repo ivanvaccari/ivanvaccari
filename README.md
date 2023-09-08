@@ -40,5 +40,5 @@ On free time i jump on my bike and ride around the countryside, or hike in the m
 - Best practices from one language does not automatically transfer to other languages
 - Algorithmic is hard to learn and  make up 90% of a developer skills. Specific language syntax, semantics and features are easy to learn and make up 10% of a developer skills.
 - Right tools make your job 50% easier.
-- Super-duper, ultra popular frameworks, make hour job easier 95% of the times. The remaining 5% of the times they just push you to madness.
+- Super-duper, ultra popular frameworks, make your job easier 95% of the times. The remaining 5% of the times they just push you to madness.
 - Most of the stuff we develop today was doable also 30 years ago, it just become easier to do it.

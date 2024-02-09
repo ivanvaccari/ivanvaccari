@@ -43,3 +43,7 @@ On free time i jump on my bike and ride around the countryside, or hike in the m
 - Super-duper, ultra popular frameworks, make your job easier 95% of the times. The remaining 5% of the times they just push you to madness.
 - Most of the stuff we develop today was doable also 30 years ago, it just become easier to do it.
 - Do not let dates beat you. Choose one only format and stick to it, no matter what. Any other format sholud be rejected or converted to your format. Don't even think of managing some special cases by hand
+
+### Secrets in software companies
+- If someone says he's busy, most probably he's not busy, it just don't want to be bothered
+- If a developer says your request is not addressable, you can be sure the reason is one of the following: you are not paying him enough, he don't know how to do it, you request is garbage.

@@ -31,19 +31,32 @@ On free time i jump on my bike and ride around the countryside, or hike in the m
 
 ### Some of my cs-related rules
 - Computer is ALWAYS right. Either your software is broken, or your environment is broken.
-- Don't overcomplicate code for simple task, it will bite back somewhere in future. Basically, [follow KISS rules](https://en.wikipedia.org/wiki/KISS_principle). 
+- Don't overcomplicate code for simple task, it will bite back somewhere in future. Basically, [follow KISS rules](https://en.wikipedia.org/wiki/KISS_principle).
 - Do not expect to extract gold from bad data (this is especially dedicated to customers!)
 - Bad solutions are better than no solutions.
-- If docs say "You can't do this!" then "You can't do this!", if docs don't say anything about it then "You probably can do it, give it a try!"
-- Temporary solutions are much less temporary than you think.
+- If docs say "You can't do this!" then "You can't do this!", otherwise "not finding any info about it" doesn't mean "it can't be done".
+- Temporary solutions are way much less temporary than you think.
+- Don't overcomplicate code for simple task, it will bite back somewhere in future.
 - Automatic stuff is great, but it might automatically stop working somewhere in time. If you rely on it for your project, at least dedicate some times to learn how yo do it manually.
-- Best practices from one language does not automatically transfer to other languages
+- Best practices from one language does not automatically transfer to other languages.
 - Algorithmic is hard to learn and  make up 90% of a developer skills. Specific language syntax, semantics and features are easy to learn and make up 10% of a developer skills.
 - Right tools make your job 50% easier.
+- Don't overcomplicate code for simple task, it will bite back somewhere in future.
 - Super-duper, ultra popular frameworks, make your job easier 95% of the times. The remaining 5% of the times they just push you to madness.
 - Most of the stuff we develop today was doable also 30 years ago, it just become easier to do it.
+- Don't overcomplicate code for simple task, it will bite back somewhere in future.
 - Do not let dates beat you. Choose one only format and stick to it, no matter what. Any other format sholud be rejected or converted to your format. Don't even think of managing some special cases by hand
+- Don't overcomplicate code for simple task, it will bite back somewhere in future.
 - Do not lock you down over a single ecosystem for business reasons. The developers world is a wide subject, if your ecosystem does not support some feature, explore alternatives instead of discarding that feature!
- 
+- If you don't reject with hate the code you wrote yourself just a couple of years ago, then you are not learning anything.
+- You should code like everything in this world is against your code. Make yor code to be safe against edge cases because one of them will "happen soon", and for soon i obviously mean "at the worst possible timing".
+- If you don't evaluate and question solutions found on the web, you're not a developer.
+- DON'T OVERCOMPLICATE CODE FOR SIMPLE TASK, IT WILL BITE BACK SOMEWHERE IN FUTURE. 
+- If you blindlessly copy-paste code from stack-overflow, you're not a developer.
+  
 ### Secrets in software companies
-- If a developer says your request is not addressable, you can be sure the reason is one of the following: you are not paying him enough, he don't know how to do it, you request is ABSOLUTELY, PURE, THE BIGGEST EVER garbage.
+- If a developer says your request is not addressable, you can be sure the reason is one of the following:
+   - You are not paying him enough (50% of the times)
+   - The developer don't know how to do it (5% of the times)
+   - You request is ABSOLUTELY, PURE, THE BIGGEST garbage ever (45% of the times)
+- Whatever app you are using now, there's 100% probability it contains at least a piece of code that "works because it's randomly glued togheter" (If you are italian, the correct sentence is "sta attaccato con lo scotch")

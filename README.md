@@ -58,4 +58,4 @@ On free time i play drums, bike around the countryside, or hike in the mountains
    - You are not paying him enough (50% of the times)
    - The developer don't know how to do it (5% of the times)
    - You request is ABSOLUTELY, PURE, THE BIGGEST garbage ever (45% of the times)
-- Whatever app you are using now, there's 100% probability it contains at least a piece of code that "works because it's randomly glued togheter" (If you are italian, the correct sentence is "sta attaccato con lo scotch")
+- Whatever app you are using now, there's 100% probability it contains at least a piece of code that "works because it's randomly glued togheter" (If you are italian, the correct sentence is "Funziona perchè sta attaccato con lo scotch")

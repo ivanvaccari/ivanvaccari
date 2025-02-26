@@ -3,8 +3,7 @@ I'm Ivan, a software developer from [Mantova (IT)](https://www.google.it/maps/pl
 
 I mostly work on the backend-side of cloud-based software solutions, integration and linux-server management, but sometimes i aslo get in touch with a lot of different technologies related to IoT and industry.
 
-On free time i jump on my bike and ride around the countryside, or hike in the mountains. I also try to build small IoT electronic projects, using [EasyEda](https://easyeda.com/it), [jlcPcb](https://jlcpcb.com/) and [Esp mcu's](https://www.espressif.com/).
-
+On free time i play drums, bike around the countryside, or hike in the mountains. 
 
 ### My daily foods
 ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)

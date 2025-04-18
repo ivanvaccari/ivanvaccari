@@ -1,7 +1,7 @@
 ### Hi!
 I'm Ivan, a software developer from [Mantova (IT)](https://www.google.it/maps/place/46100+Mantova+MN/@45.1618212,10.7526511,14z).
 
-I mostly work on the backend-side of cloud-based software solutions, integration and linux-server management, but sometimes i aslo get in touch with a lot of different technologies related to IoT and industry.
+I mostly work on the backend-side of cloud-based software solutions, integration and linux-server management, but sometimes i also get in touch with a lot of different technologies related to IoT and industry.
 
 On free time i play drums, bike around the countryside, or hike in the mountains. 
 

@@ -1,5 +1,5 @@
 ### Hi! 
-I'm Ivan, a software developer from [Sabioneta (IT)](https://en.wikipedia.org/wiki/Sabbioneta).
+I'm Ivan, a software developer from [Sabbioneta (IT)](https://en.wikipedia.org/wiki/Sabbioneta).
 
 I mostly work on the backend-side of cloud-based software solutions, integration and linux-server management, but sometimes i also get in touch with a lot of different technologies related to IoT and industry.
 
